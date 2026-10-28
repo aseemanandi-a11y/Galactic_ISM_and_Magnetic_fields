@@ -45,7 +45,7 @@ To investigate the generation and evolution of large-scale magnetic fields in th
 ### 📖 Reference Literature -
  - Chamandy, Luke, Kandaswamy Subramanian, and Anvar Shukurov. "Galactic spiral patterns and dynamo action–I. A new twist on magnetic arms." Monthly Notices of the Royal Astronomical Society 428.4 (2013): 3569-3589.
 
- This code is a replication of the computational model A developed in above paper.
+ This code is a replication of the computational models A and B developed in above paper.
 
 
 ##  Languages & Libraries Used
